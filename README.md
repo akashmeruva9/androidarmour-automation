@@ -17,25 +17,6 @@ You can view the full SIH2024 presentation, videos and libraries here:
 
 - Libraries (GitHub) : [Android_Security_Library](https://github.com/akashmeruva9/Android_Security_Library), [Android_FIntech_Security_library](https://github.com/akashmeruva9/Android_FIntech_Security_library), [Android_Social_Media_Security_Librar](https://github.com/akashmeruva9/Android_Social_Media_Security_Librar), [Android_Ecommerce_Security_Library](https://github.com/akashmeruva9/Android_Ecommerce_Security_Library), [Android_Streaming_Security_Library](https://github.com/akashmeruva9/Android_Streaming_Security_Library), [Android_Gaming_Security_Library](https://github.com/akashmeruva9/Android_Gaming_Security_Library).
 
-## Table of Contents
-
-* [Problem Statement](#problem-statement)
-* [Motivation & Impact](#motivation--impact)
-* [Proposed Solution](#proposed-solution)
-* [Key Features](#key-features)
-* [Target Users](#target-users)
-* [Technology Stack](#technology-stack)
-* [System Architecture](#system-architecture)
-* [Data & Privacy](#data--privacy)
-* [Implementation Plan & Timeline](#implementation-plan--timeline)
-* [Evaluation & Success Metrics](#evaluation--success-metrics)
-* [Demo & Artifacts](#demo--artifacts)
-* [How to Run (Prototype)](#how-to-run-prototype)
-* [Contributing](#contributing)
-* [Team](#team)
-* [References](#references)
-* [License](#license)
-* [Contact](#contact)
 
 ## Problem Statement : [SIH 2024 - PS 1747](https://www.sih.gov.in/sih2024PS?technology_bucket=QWxs&category=U29mdHdhcmU=&organization=QWxs&organization_type=QWxs)
 
