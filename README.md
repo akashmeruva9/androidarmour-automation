@@ -7,12 +7,15 @@
 AndroidArmour — a cloud-assisted, AI-enabled Runtime Application Self‑Protection (RASP) and security-integration platform that adds robust, crash-proof security layers to Android apps (API level 34 / Android 14+) via (a) developer libraries, (b) automated source-level instrumentation, and (c) APK-level automated hardening.
 
 
-### Presentation (PPT)
+### Links
 
-You can view the full SIH2024 presentation here:
+You can view the full SIH2024 presentation, videos and libraries here:
 
-**PPT Link:** [https://www.canva.com/design/DAGQ46cw3EA/W2GJRDT-B1tdrIfp8CzfGg/view?utm_content=DAGQ46cw3EA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he5e2789626](https://www.canva.com/design/DAGQ46cw3EA/W2GJRDT-B1tdrIfp8CzfGg/view?utm_content=DAGQ46cw3EA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he5e2789626)
+- [PPT Link](https://www.canva.com/design/DAGQ46cw3EA/W2GJRDT-B1tdrIfp8CzfGg/view?utm_content=DAGQ46cw3EA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he5e2789626)
 
+- Videos : [Demo](https://www.youtube.com/watch?v=U6lXrkNMoNs), [Intro](https://www.youtube.com/watch?v=7oMJ0Kxa58k0)
+
+- Libraries (GitHub) : [Android_Security_Library](https://github.com/akashmeruva9/Android_Security_Library), [Android_FIntech_Security_library](https://github.com/akashmeruva9/Android_FIntech_Security_library), [Android_Social_Media_Security_Librar](https://github.com/akashmeruva9/Android_Social_Media_Security_Librar), [Android_Ecommerce_Security_Library](https://github.com/akashmeruva9/Android_Ecommerce_Security_Library), [Android_Streaming_Security_Library](https://github.com/akashmeruva9/Android_Streaming_Security_Library), [Android_Gaming_Security_Library](https://github.com/akashmeruva9/Android_Gaming_Security_Library).
 
 ## Table of Contents
 
